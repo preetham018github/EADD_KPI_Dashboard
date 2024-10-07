@@ -1,4 +1,3 @@
-Here's a detailed **README** section for your GitHub project:
 
 ---
 
@@ -31,5 +30,3 @@ Due to confidentiality concerns, the Power BI files are not included. The screen
 - Some values in the screenshots are intentionally covered with markers to protect confidential information.
 
 ---
-
-You can adjust this README as needed, but this version provides a clear project overview while ensuring the confidentiality of sensitive data. Let me know if you'd like further changes!
